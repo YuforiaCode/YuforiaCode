@@ -1,24 +1,20 @@
 <p align="center">
-  <img src="https://github.com/CodeCodeAscension/CodeCodeAscension/blob/main/assets/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Animated Header" width="100%" />
+  <img src="https://github.com/YuforiaCode/YuforiaCode/blob/main/assets/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Animated Header" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CodeCodeAscension!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+YuforiaCode!" />
 </h1>
 
-<h3 align="center">🤖 AI/ML Enthusiast | Data Science Explorer | Passionate Tech Learner</h3>
+<h3 align="center">🤖 Java Developer | AI Enthusiast | Passionate Tech Learner</h3>
 
 ---
 
 ### 👨‍🎓 About Me
 
-- 🎓 I am a **sophomore majoring in Computer Science**.
-- 💼 Currently working as a **development intern at Anker**.
-- 🛠️ My internship mainly involves projects related to **MCP, Spring AI, and large language models**—areas I am truly passionate about.
-- 🚀 I enjoy delving into these **cutting-edge technologies** and sharing my learning journey.
-- 🌟 I have also created my personal tech brand **“CodeCodeAscension”** on Douyin, where I discuss technical topics and share insights on social media.
-- 📱 **Douyin account:** 44564254111
-- 👥 **QQ groups:** 957107236, 1047084604
+- 🎓 I am a **2023-enrolled undergraduate student majoring in Software Engineering at SCAU**.
+- 🚀 I enjoy delving into **cutting-edge technologies** and sharing my learning journey.
+- 🌟 I have also created my personal account **“YuforiaCode”** on CSDN, where I discuss technical topics and share insights on social media.
 - 🤝 Let’s **learn and grow together!**
 
 ---
@@ -41,10 +37,40 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YuforiaCode&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=YuforiaCode&show_icons=true&theme=react&count_private=true" />
+      </td>
+      <td>
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuforiaCode&layout=compact&theme=react" />
+      </td>
+      <td>
+        <img height="150" src="https://github-readme-streak-stats-taupe-tau.vercel.app?user=YuforiaCode&theme=react" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ### 🎮 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuforiaCode/YuforiaCode/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuforiaCode/YuforiaCode/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YuforiaCode/YuforiaCode/output/pacman-contribution-graph.svg">
 </picture>
